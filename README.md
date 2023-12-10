@@ -35,4 +35,4 @@
 
 ## 😄 My stats 
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbrunoviana&show_icons=true&theme=dracula)
+(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrunoviana&layout=compact))![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbrunoviana&show_icons=true&theme=dracula)
