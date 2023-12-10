@@ -30,7 +30,7 @@
 
 ## 🌱 I’m currently learning
 
-<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" width="90" height="90"/>  <img src="https://raw.githubusercontent.com/oracle-devrel/devo.tutorials/main/assets/argo-icon-color-800.png" width="90" height="90"/>  <img src="https://miro.medium.com/v2/resize:fit:400/1*ANDxSZMbvvhaxwqdI-6rPw.png" width="90" height="90"/>
+<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" width="90" height="90"/>  <img src="https://raw.githubusercontent.com/oracle-devrel/devo.tutorials/main/assets/argo-icon-color-800.png" width="90" height="90"/>  <img src="https://miro.medium.com/v2/resize:fit:400/1*ANDxSZMbvvhaxwqdI-6rPw.png" width="90" height="90"/>  <img src="https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI" width="90" height="90"/>
 
 
 ## 😄 My stats 
