@@ -15,6 +15,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:340/1*HP0Qss6BAQcv0UbHb21YFQ.png" width="90" height="90"/>
 <!-- <img src="https://camo.githubusercontent.com/d13e208052a3e9d83243cd804635e60e4a238c43a86ce1bc6aea249c39c67709/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d617232312e737667" alt="terraform" width="110" height="110"/>   -->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
+<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" width="90" height="90"/>  <img src="https://raw.githubusercontent.com/oracle-devrel/devo.tutorials/main/assets/argo-icon-color-800.png" width="90" height="90"/>  <img src="https://miro.medium.com/v2/resize:fit:400/1*ANDxSZMbvvhaxwqdI-6rPw.png" width="90" height="90"/>  <img src="https://miro.medium.com/v2/resize:fit:1200/1*L6Eaowb7nHrLSiH41Tp4sA.png" width="90" height="90"/> 
   
 </p>
 
@@ -31,7 +32,7 @@
 
 ## 🌱 I’m currently learning
 
-<img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" width="90" height="90"/>  <img src="https://raw.githubusercontent.com/oracle-devrel/devo.tutorials/main/assets/argo-icon-color-800.png" width="90" height="90"/>  <img src="https://miro.medium.com/v2/resize:fit:400/1*ANDxSZMbvvhaxwqdI-6rPw.png" width="90" height="90"/>  <img src="https://miro.medium.com/v2/resize:fit:1200/1*L6Eaowb7nHrLSiH41Tp4sA.png" width="90" height="90"/> 
+
 
 
 ## 😄 My stats 
