@@ -1,6 +1,7 @@
 ## Hi there,👋
 - My name is Bruno Viana, I'm study DevOps
 - A techie 🚀 living in Brazil 🇧🇷
+- My personal Blog is: https://devopslaboratory.com
 
 ## 🧰 DevOps Tools
 
